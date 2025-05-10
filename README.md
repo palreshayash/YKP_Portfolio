@@ -5,7 +5,8 @@ A collection of projects demonstrating my skills in health informatics.
 - Pragma Path – Successfully led as a Project Manager, identifying key decision-makers and early adopters within the healthcare ecosystem and 
 developed a comprehensive market entry strategy for Parkinson’s Remote Interactive Management System (PRIMS) in the U.S.A.
 **Pragma Path Project**
-  - 📄 [Download PragmaPath Project Plan (word))(PragmaPath%20Project%20Plan%20-%20Final.docx)
+  - 📄 [Download PragmaPath Project Plan (DOCX)](https://github.com/palreshayash/YKP_Portfolio/blob/main/PragmaPath%20Project%20Plan%20-%20Final.docx)
+
 - Fitness Club Management Database - designed and implemented a comprehensive Fitness Club Management Database System using MySQL.
  **SQL FMDB Project**
   - 📄 [Presentation (PPTX)](SQL%20FMDB%20project.pptx)
