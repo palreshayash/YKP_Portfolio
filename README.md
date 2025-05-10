@@ -15,12 +15,11 @@ developed a comprehensive market entry strategy for Parkinson’s Remote Interac
 
 
 ## 🛠️ Technologies Used
-- Python
 - SQL 
 - R
 - Power BI
 - Tableau
-- Canva
+- Excel
 - Git & GitHub
 
 
