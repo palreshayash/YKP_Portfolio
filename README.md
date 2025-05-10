@@ -4,7 +4,12 @@ A collection of projects demonstrating my skills in health informatics.
 ## 📂 Projects
 - Pragma Path – Successfully led as a Project Manager, identifying key decision-makers and early adopters within the healthcare ecosystem and 
 developed a comprehensive market entry strategy for Parkinson’s Remote Interactive Management System (PRIMS) in the U.S.A.  
-- Fitness Club Management Database - designed and implemented a comprehensive Fitness Club Management Database System using MySQL.
+- Fitness Club Management Database - designed and implemented a comprehensive Fitness Club Management Database System using MySQL. ## 📂 Projects
+ **SQL FMDB Project**
+  - 📄 [Presentation (PPTX)](SQL%20FMDB%20project.pptx)
+  - 🛠️ [MySQL Workbench Model](SQL%20FMDB.mwb)
+  - Description: A database design project using MySQL Workbench, covering forward engineering, ER modeling, and querying.
+
 
 ## 🛠️ Technologies Used
 - Python
