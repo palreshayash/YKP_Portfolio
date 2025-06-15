@@ -1,8 +1,11 @@
 # YKP_Portfolio
 A collection of projects demonstrating my skills in health informatics.
 
-## 📂 Projects
-- Pragma Path – Successfully led as a Project Manager, identifying key decision-makers and early adopters within the healthcare ecosystem and 
+## 📂 Projects- 
+**HCAHPS -Hospital Performance Analysis Project**
+  - 📄 [Download HCAHPS-ANALYSIS (DOCX)](https://github.com/palreshayash/YKP_Portfolio/blob/main/HCAHPS%20-%20ANALYSIS.docx)
+  
+-  Pragma Path – Successfully led as a Project Manager, identifying key decision-makers and early adopters within the healthcare ecosystem and 
 developed a comprehensive market entry strategy for Parkinson’s Remote Interactive Management System (PRIMS) in the U.S.A.
 **Pragma Path Project**
   - 📄 [Download PragmaPath Project Plan (DOCX)](https://github.com/palreshayash/YKP_Portfolio/blob/main/PragmaPath%20Project%20Plan%20-%20Final.docx)
