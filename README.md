@@ -18,14 +18,13 @@ developed a comprehensive market entry strategy for Parkinson’s Remote Interac
   - 🛠️ [MySQL Workbench Model](SQL%20FMDB.mwb)
   - Description: A database design project using MySQL Workbench, covering forward engineering, ER modeling, and querying.
 
-
-## 🛠️ Technologies Used
+## 🛠️ Tools Used
 - SQL 
 - R
 - Power BI
 - Tableau
 - Excel
-- Git & GitHub
+
 
 
 ## 👤 About Me
