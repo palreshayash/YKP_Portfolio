@@ -3,9 +3,11 @@ A collection of projects demonstrating my skills in health informatics.
 
 ## 📂 Projects- 
 **HCAHPS -Hospital Performance Analysis Project**
--Conducted quantitative analysis on data from 100+ hospitals using ANOVA and chi-square tests, identifying a 28% lower 
-availability of key facilities in rural areas compared to urban areas, informing recommendations to improve health equity. 
+- Conducted quantitative analysis on data from 100+ hospitals using ANOVA and chi-square tests, identifying a 28% lower 
+availability of key facilities in rural areas compared to urban areas, informing recommendations to improve health equity.
+- Created interactive dashboards and detailed reports in Power BI to visualize patient satisfaction trends, analyze variability in hospital facilities across rural and urban areas, and identify key factors influencing changes in care quality.
   - 📄 [Download HCAHPS Analysis](https://github.com/palreshayash/YKP_Portfolio/blob/main/HCAHPS-ANALYSIS.docx)
+  - 📄 [Download HCAHPS - Hospital Performance Analysis](https://github.com/palreshayash/YKP_Portfolio/blob/main/HCAHPS - Hospital Performance Analysis.pbix)
 
 **Pragma Path Project**
 -  Pragma Path – Successfully led as a Project Manager, identifying key decision-makers and early adopters within the healthcare ecosystem and 
