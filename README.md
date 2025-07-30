@@ -7,8 +7,7 @@ A collection of projects demonstrating my skills in health informatics.
 availability of key facilities in rural areas compared to urban areas, informing recommendations to improve health equity.
 - Created interactive dashboards and detailed reports in Power BI to visualize patient satisfaction trends, analyze variability in hospital facilities across rural and urban areas, and identify key factors influencing changes in care quality.
   - 📄 [Download HCAHPS Analysis](https://github.com/palreshayash/YKP_Portfolio/blob/main/HCAHPS-ANALYSIS.docx)
-  - 📄 [Download HCAHPS - Hospital Performance Analysis](https://github.com/palreshayash/YKP_Portfolio/blob/main/HCAHPS - Hospital Performance Analysis.pbix)
-
+  - 📄 [Download HCAHPS - Hospital Performance Analysis](https://github.com/palreshayash/YKP_Portfolio/blob/main/HCAHPS%20-%20Hospital%20Performance%20Analysis.pbix)
 **Pragma Path Project**
 -  Pragma Path – Successfully led as a Project Manager, identifying key decision-makers and early adopters within the healthcare ecosystem and 
 developed a comprehensive market entry strategy for Parkinson’s Remote Interactive Management System (PRIMS) in the U.S.A.
