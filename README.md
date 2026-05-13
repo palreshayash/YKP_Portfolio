@@ -14,8 +14,8 @@ availability of key facilities in rural areas compared to urban areas, informing
 developed a comprehensive market entry strategy for Parkinson’s Remote Interactive Management System (PRIMS) in the U.S.A.
   - 📄 [Download PragmaPath Project Plan (DOCX)](https://github.com/palreshayash/YKP_Portfolio/blob/main/PragmaPath%20Project%20Plan%20-%20Final.docx)
 
-- Fitness Club Management Database - designed and implemented a comprehensive Fitness Club Management Database System using MySQL.
  **SQL FMDB Project**
+ - Fitness Club Management Database - designed and implemented a comprehensive Fitness Club Management Database System using MySQL.
   - 📄 [Presentation (PPTX)](SQL%20FMDB%20project.pptx)
   - 🛠️ [MySQL Workbench Model](SQL%20FMDB.mwb)
   - Description: A database design project using MySQL Workbench, covering forward engineering, ER modeling, and querying.
