@@ -20,6 +20,12 @@ developed a comprehensive market entry strategy for Parkinson’s Remote Interac
   - 🛠️ [MySQL Workbench Model](SQL%20FMDB.mwb)
   - Description: A database design project using MySQL Workbench, covering forward engineering, ER modeling, and querying.
 
+**BIOSTATISTICS Project**
+- Mental Health & Blood Pressure Correlation Analysis
+- Analyzed 6,097 NHANES records using multivariable regression and found that age (+0.41 mmHg/year) and BMI (+0.20 mmHg/unit) were significant predictors of systolic BP, while mental health days were not independently associated with systolic BP.
+- [Download Biostats project.pdf](https://github.com/palreshayash/YKP_Portfolio/blob/main/Biostats%20project.pdf)
+
+
 ## 🛠️ Tools Used
 - SQL 
 - R
